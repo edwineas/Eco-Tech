@@ -902,3 +902,22 @@ textarea#comment::placeholder {
     margin-left: 647px;
     font-size: xx-large;
 }
+.footer{
+    margin-top: 190px;
+    background: black;
+    height: 300px;
+    width: 100%;
+}
+.foot{
+    padding-top: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.foot-img{
+    margin-left: 246px;
+    align-items: center;
+    height: 200px;
+    width: 175px;
+    padding: 10px;
+}
