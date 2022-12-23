@@ -839,9 +839,10 @@ textarea#comment::placeholder {
 
 
 .logoimages{
-    height: 70px;
+    max-height: 70px;
     margin-top: 20px;
     margin-bottom: none;
+    max-width: 195;
 }
 .home{
     margin-bottom: 50px;
